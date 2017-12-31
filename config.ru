@@ -1,6 +1,6 @@
 require_relative "./config/environment.rb"
-# run SinatraApp.new
-run Protocol.new
+run SinatraApp.new
+# run Protocol.new
 # run MyProgram.new
 # run Application.new
 
